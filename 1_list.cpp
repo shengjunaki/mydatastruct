@@ -1,6 +1,7 @@
 #include <assert.h>
 #include <stdio.h>
 #include <malloc.h>
+
 #define elemtype int
 typedef struct listnode
 {
