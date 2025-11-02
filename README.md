@@ -1,4 +1,4 @@
-#jk_sheng's data struct note'#
+#jk_sheng's data struct note'
 
 *Hello,world*
 
