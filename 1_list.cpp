@@ -1,5 +1,4 @@
-#include<stdio.h>
-#include<assert.h>
+include<assert.h>
 #include<malloc.h>
 #define elemtype int
 typedef struct listnode
